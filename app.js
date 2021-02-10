@@ -7,4 +7,5 @@ client.on('ready', () => {
 });
  
 
+
 client.login(process.env.WEATHER_NETWORK);
