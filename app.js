@@ -5,5 +5,6 @@ client.on('ready', () => {
     console.log('Weather is sunny!');
 });
 //
+//
 
 client.login(process.env.WEATHER_NETWORK);
